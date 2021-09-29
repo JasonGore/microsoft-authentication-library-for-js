@@ -2,6 +2,29 @@
   "name": "@azure/msal-common",
   "entries": [
     {
+      "date": "Wed, 29 Sep 2021 17:53:33 GMT",
+      "tag": "@azure/msal-common_v5.0.1",
+      "version": "5.0.1",
+      "comments": {
+        "none": [
+          {
+            "comment": "fix: integrate forked bindings package",
+            "author": "kamausamuel11@gmail.com",
+            "commit": "7dc44a20ad76a27b1af3df6ad81d22d202acf1f2",
+            "package": "@azure/msal-common"
+          }
+        ],
+        "patch": [
+          {
+            "comment": "Make no_tokens_found error an InteractionRequiredAuthError #4089",
+            "author": "thomas.norling@microsoft.com",
+            "commit": "819864ba067ed52152e7a5891f22f6c6e8fe3f87",
+            "package": "@azure/msal-common"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 07 Sep 2021 23:22:24 GMT",
       "tag": "@azure/msal-common_v5.0.0",
       "version": "5.0.0",

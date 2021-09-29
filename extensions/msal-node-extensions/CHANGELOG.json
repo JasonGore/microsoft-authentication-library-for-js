@@ -2,6 +2,21 @@
   "name": "@azure/msal-node-extensions",
   "entries": [
     {
+      "date": "Wed, 29 Sep 2021 17:53:33 GMT",
+      "tag": "@azure/msal-node-extensions_v1.0.0",
+      "version": "1.0.0",
+      "comments": {
+        "patch": [
+          {
+            "comment": "fix: integrate forked bindings package",
+            "author": "kamausamuel11@gmail.com",
+            "commit": "7dc44a20ad76a27b1af3df6ad81d22d202acf1f2",
+            "package": "@azure/msal-node-extensions"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 09 Sep 2021 23:58:01 GMT",
       "tag": "@azure/msal-node-extensions_v1.0.0-alpha.10",
       "version": "1.0.0-alpha.10",

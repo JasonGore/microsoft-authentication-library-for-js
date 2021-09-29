@@ -1,6 +1,6 @@
 {
   "name": "electron-msal-node-extensions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An electron application implementing msal-node-extensions bundler with webpack",
   "scripts": {
     "build": "webpack",
@@ -34,7 +34,7 @@
     "webpack-cli": "^4.7.2"
   },
   "dependencies": {
-    "@azure/msal-node-extensions": "file:../../msal-node-extensions/",
+    "@azure/msal-node-extensions": "1.0.0",
     "@microsoft/mgt-components": "^2.2.1",
     "@microsoft/mgt-electron-provider": "^2.2.1",
     "@microsoft/mgt-element": "^2.2.1"

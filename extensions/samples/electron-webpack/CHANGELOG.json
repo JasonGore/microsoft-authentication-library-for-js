@@ -1,0 +1,20 @@
+{
+  "name": "electron-msal-node-extensions",
+  "entries": [
+    {
+      "date": "Wed, 29 Sep 2021 17:53:33 GMT",
+      "tag": "electron-msal-node-extensions_v1.0.1",
+      "version": "1.0.1",
+      "comments": {
+        "none": [
+          {
+            "comment": "fix: integrate forked bindings package",
+            "author": "kamausamuel11@gmail.com",
+            "commit": "7dc44a20ad76a27b1af3df6ad81d22d202acf1f2",
+            "package": "electron-msal-node-extensions"
+          }
+        ]
+      }
+    }
+  ]
+}

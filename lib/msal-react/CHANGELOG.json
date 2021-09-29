@@ -2,6 +2,21 @@
   "name": "@azure/msal-react",
   "entries": [
     {
+      "date": "Wed, 29 Sep 2021 17:53:33 GMT",
+      "tag": "@azure/msal-react_v1.0.2",
+      "version": "1.0.2",
+      "comments": {
+        "none": [
+          {
+            "comment": "fix: add forked bindings library to node-extensins",
+            "author": "kamausamuel11@gmail.com",
+            "commit": "410255b43598f102bf8a9d1b52674ba8e81e0f21",
+            "package": "@azure/msal-react"
+          }
+        ]
+      }
+    },
+    {
       "date": "Tue, 07 Sep 2021 23:22:24 GMT",
       "tag": "@azure/msal-react_v1.0.2",
       "version": "1.0.2",
